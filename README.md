@@ -14,8 +14,6 @@ My game portfolio.
 闯过重重关卡之后，学生以为会寻得真理，却发现将要击败的是这些他景仰的物理学家们。
 游戏中，玩家将操控“物理学生”以及三个圣物，包括引力，时间和温度。
 每种圣物有两种相对的模式，玩家需要巧妙切换模式和运用圣物来通关。 <br>
-[itch Project](https://ganah.itch.io/mad-physicist) <br>
-[Play Online](https://tinyrattar.github.io/MadPhysicist.github.io/)
 
 ### [⌛️ Time is an Illusion](https://www.gcores.com/games/67500)
 <div align="center">
@@ -30,8 +28,6 @@ My game portfolio.
 最后，他做了一场梦，在梦中他遇见了一只巨大的鸟...
 鲜花落在墓碑，友人已然离去。
 在这个真实的片刻，只剩下自我与自我的幻象。 <br>
-[Play Online](https://tinyrattar.github.io/BOOOM2_PPT.github.io/) <br>
-[Download Link, Password: o62o](https://pan.baidu.com/s/1e_UCCfHJhv9P5poqsGFPGw)
 
 ### [🫧 Madivina: Dark Forest](https://www.gcores.com/games/81380)
 <div align="center">
@@ -41,7 +37,6 @@ My game portfolio.
 途中，一位少女向他诉说自己被三只野兽追逐，而它们正镇守在幽暗森林深处，地狱之门口。
 为了历练自己，吟游诗人收集不同旋律乐章，强化自己的音乐力量，为游荡在森林中怪物吹奏净化之音。
 最后，在导师的引导下，面对三只野兽和更高的存在。
-[Trailer](https://www.bilibili.com/video/BV1JS4y1b7Zk/)
 
 ### [🧑‍🌾 末日大锄地](https://www.gcores.com/games/99588)
 <div align="center">
@@ -52,4 +47,21 @@ My game portfolio.
 不同的种田理念【机械】【化学】【自然】【巫术】不同的派系，都有各自的侧重。
 或是坚持主见，或是集各家所长，玩家在游戏过程中不断强化自己的卡组，种植作物，改造土壤等，以更好的收成来获得更高的分数，证明谁才是真正的种田之王。 <br>
 70+种荒诞而强大的卡牌，精美而诙谐的卡面设计，让人身临其境的游戏配件，值得您体验。 <br>
-[Trailer](https://www.bilibili.com/video/BV1bM4y1X7s2/)
+
+### [🖨️ LF3DP](https://www.gcores.com/games/103680)
+<div align="center">
+  <img src=./pics/mad_roots.png alt="MadRoots" style="width:600px;height:auto;">
+</div>
+"Draw a Closed-Loop Sketch of Dream"
+
+### [🌞 日月边缘](https://www.gcores.com/games/110285)
+<div align="center">
+  <img src=./pics/mad_roots.png alt="MadRoots" style="width:600px;height:auto;">
+</div>
+你可以通过射击和弹射方式来获取更多的领域，或尝试攻击枢纽，它们所能引发连锁反应可以助你彻底改变战局，拓宽昼和夜的边界，为你的女士赢得胜利吧。
+
+### [🐱 救死扶伤猫猫车](https://www.gcores.com/games/113233)
+<div align="center">
+  <img src=./pics/mad_roots.png alt="MadRoots" style="width:600px;height:auto;">
+</div>
+森林日渐衰落，动物们生命危在旦夕…此时猫猫车横空出世！玩家将扮演猫猫和狗狗，从偷猎车拯救小动物，解决骰子带来的麻烦，让这片森林重新焕发生机！
