@@ -50,18 +50,18 @@ My game portfolio.
 
 ### [🖨️ LF3DP](https://www.gcores.com/games/103680)
 <div align="center">
-  <img src=./pics/mad_roots.png alt="MadRoots" style="width:600px;height:auto;">
+  <img src=./pics/lf3dp.png alt="LF3DP" style="width:600px;height:auto;">
 </div>
 "Draw a Closed-Loop Sketch of Dream"
 
 ### [🌞 日月边缘](https://www.gcores.com/games/110285)
 <div align="center">
-  <img src=./pics/mad_roots.png alt="MadRoots" style="width:600px;height:auto;">
+  <img src=./pics/sun_and_moon.gif alt="SunAndMoon" style="width:600px;height:auto;">
 </div>
 你可以通过射击和弹射方式来获取更多的领域，或尝试攻击枢纽，它们所能引发连锁反应可以助你彻底改变战局，拓宽昼和夜的边界，为你的女士赢得胜利吧。
 
 ### [🐱 救死扶伤猫猫车](https://www.gcores.com/games/113233)
 <div align="center">
-  <img src=./pics/mad_roots.png alt="MadRoots" style="width:600px;height:auto;">
+  <img src=./pics/meow.gif alt="Meow" style="width:600px;height:auto;">
 </div>
 森林日渐衰落，动物们生命危在旦夕…此时猫猫车横空出世！玩家将扮演猫猫和狗狗，从偷猎车拯救小动物，解决骰子带来的麻烦，让这片森林重新焕发生机！
