@@ -1,4 +1,4 @@
-# PEANUX
+# 🥜 PEANUX
 
 ## LINKS
 [Gcores: schizo-ganah](https://www.gcores.com/users/207779/) <br>
