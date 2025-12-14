@@ -88,3 +88,43 @@ You can gain more territory by shooting and catapulting, or try attacking the hu
 </div>
 森林日渐衰落，动物们生命危在旦夕…此时猫猫车横空出世！玩家将扮演猫猫和狗狗，从偷猎车拯救小动物，解决骰子带来的麻烦，让这片森林重新焕发生机！ <br>
 As the forest dwindles, the lives of animals hang by a thread... At this moment, the Meow Meow Ambulance emerges! Players will take on the roles of cats and dogs, rescuing small animals from poaching vehicles, solving problems brought by death dice, and rejuvenating the forest! <br>
+
+### [🧙‍♀️🥣 女巫汤釜 WitcHex](https://www.gcores.com/games/126501) ｜ [ 🎮 ](https://www.gcores.com/games/126501/play)
+<div align="center">
+  <img src=./pics/WitcHex.gif alt="WitcHex" style="width:600px;height:auto;">
+</div>
+王国边境的小小村庄出现大危机！！！
+村民都来找热心肠的小女巫开药方！！！
+为满足村民们稀奇古怪的需求，小女巫不停融合元素炼药，同时还要小心炼药产生的杂质让汤釜爆炸！！！
+有时候实在忙不过来，她就会想如果把含有杂质的假药给村民，会产生什么副作用呢？？？
+
+正所谓：
+奇奇怪怪药处方，五花八门一组合。
+各式各样原材料，手忙脚乱瞎搅和。
+一不小心混杂质，村民喝了乐呵呵。
+
+“呼～还好有几维鸟的帮忙，不然高级精粹都不知道从哪里找。
+诶，等等！顾客里怎么还有一个垃圾桶先生？！！” <br>
+A huge crisis hits a small village on the kingdom’s border!!!
+Villagers are all coming to the kind-hearted little witch for prescriptions!!!
+To meet the villagers’ bizarre and whimsical demands, the little witch keeps fusing elements to brew potions, all while being careful not to let impurities from the brewing process blow up the cauldron!!!
+Sometimes, when she’s simply too swamped, she wonders—what side effects would occur if she gave villagers fake medicine containing impurities???
+
+As the saying goes:
+Weird and wonderful prescriptions, a jumble of mixes untold.
+All sorts of ingredients, stirred in a frantic, messy hold.
+A slip of the hand, impurities blend, yet the villagers drink, happy and bold.
+
+“Whew~ Good thing the kiwi bird’s here to help, or I’d have no idea where to find advanced essences.
+Huh, wait! Why is there a Mr. Trash Can among the customers?!!” <br>
+
+### [🌍 小世界 MaDevotion](https://www.gcores.com/games/148163) ｜ [ 🎮 ](https://www.gcores.com/games/148163/play) ｜ [ 🎮 ](https://tinyrattar.itch.io/smallworld)
+<div align="center">
+  <img src=./pics/MaDevotion.png alt="SmallWorld" style="width:600px;height:auto;">
+</div>
+在小世界之间探索，收集，建造。
+通过收集地图上的资源建造建筑，改造地块，染色。
+当你在小世界奉献自己的一份力量后，整个世界又会有怎么样的不同呢？<br>
+Explore between small worlds, collect, and build.
+Construct buildings, renovate plots, and dye by collecting resources on the map.
+After you contribute your share in a small world, how will the entire world change? <br>
